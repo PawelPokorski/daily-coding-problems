@@ -1,9 +1,9 @@
 # 🧠 Daily Coding Problems
 
-Zbiór codziennych problemów programistycznych rozwiązanych przeze mnie w wybranych językach programowania.
+A collection of daily coding problems solved by me in selected programming languages.
 
-## Lista zadań
+## Problem List
 
 | Nr  | Nazwa            | Java                                  | C#                                     |
 |-----|------------------|---------------------------------------|----------------------------------------|
-<!--| 001 | Two Sum Check    | [Zobacz](001-two-sum-check/java/)     | [Zobacz](001-two-sum-check/csharp/)    | -->
+| 001 | Two Sum Check | [View](problems/001-two-sum-check/java/Main.java) | [View](problems/001-two-sum-check/csharp/Main.cs) |
