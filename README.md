@@ -4,6 +4,6 @@ A collection of daily coding problems solved by me in selected programming langu
 
 ## Problem List
 
-| Nr  | Nazwa            | Java                                  | C#                                     |
-|-----|------------------|---------------------------------------|----------------------------------------|
-| 001 | Two Sum Check | [View](problems/001-two-sum-check/java/Main.java) | [View](problems/001-two-sum-check/csharp/Main.cs) |
+| No. | Name | Description | Java | C# |
+| --- | ---- | ----------- | ---- | -- |
+| 001 | Two Sum Check | [View](problems/001-two-sum-check/README.md) | [View](problems/001-two-sum-check/java/Main.java) | [View](problems/001-two-sum-check/csharp/Main.cs) |
