@@ -9,19 +9,17 @@ public class Program
     {
         var output = ArrayProduct(numbers);
 
-        foreach (var o in output)
-        {
-            Console.Write($"{o} ");
-        }
+        Console.WriteLine(string.Join(", ", output));
     }
 
     static int[] ArrayProduct(int[] array)
     {
-        int[] productArray = [.. Enumerable.Repeat(1, array.Length)];
+        int length = array.Length;
+        int[] productArray = [.. Enumerable.Repeat(1, length)];
 
-        for (int i = 0; i < array.Length; i++)
+        for (int i = 0; i < length; i++)
         {
-            for (int j = 0; j < array.Length; j++)
+            for (int j = 0; j < length; j++)
             {
                 if (i != j)
                     productArray[i] *= array[j];
