@@ -8,7 +8,6 @@ public class Program
     static void Main(string[] args)
     {
         var output = ArrayProduct(numbers);
-
         Console.WriteLine(string.Join(", ", output));
     }
 
