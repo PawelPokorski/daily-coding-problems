@@ -5,9 +5,7 @@ public class App {
     static Integer[] numbers = {1, 2, 3, 4, 5};
 
     public static void main(String... args) {
-
         var output = arrayProduct(numbers);
-
         System.out.println(Arrays.toString(output));
     }
 
