@@ -14,3 +14,4 @@ Given an array of integers, return a new array such that each element at index `
 
 **Constraints:**
 - You **must not** use division in your solution.
+- You can assume that the input array is given
