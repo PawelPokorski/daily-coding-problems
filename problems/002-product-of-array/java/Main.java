@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class App {
+public class Main {
 
     static Integer[] numbers = {1, 2, 3, 4, 5};
 
