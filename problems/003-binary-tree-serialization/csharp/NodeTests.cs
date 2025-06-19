@@ -10,7 +10,7 @@ public class NodeTests
         var serialized = Node.Serialize(node);
         var deserialized = Node.Deserialize(serialized);
 
-        var result = Node.Deserialize(Node.Serialize(node)).Left.Left.Val;
+        var result = deserialized.Left.Left.Val;
 
         Assert.That(result, Is.EqualTo("left.left"));
     }
