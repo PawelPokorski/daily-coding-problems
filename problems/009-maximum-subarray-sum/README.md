@@ -11,4 +11,4 @@ Given a list of integers, write a function that returns the largest sum of non-a
 
 **Constraints:**
 
-The algorithm should achieve O(N) time complexity and constant space complexity.
+The algorithm should achieve `O(n)` time complexity and constant space complexity.
