@@ -1,4 +1,4 @@
-# Problem 009 – Max Non-Adjacent Sum
+# Problem 009 – Maximum Subarray Sum
 
 **Problem:**
 
