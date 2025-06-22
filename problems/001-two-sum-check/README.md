@@ -11,5 +11,6 @@ Output: `true` (since 10 + 7 = 17)
 
 **Constraints:**
 
-- You may not use the same element twice
-- You can assume that the input array is given
+You may not use the same element twice.
+
+You can assume that the input array is given.
