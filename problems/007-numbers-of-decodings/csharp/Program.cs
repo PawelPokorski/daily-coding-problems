@@ -1,7 +1,5 @@
 using System;
 
-namespace Common;
-
 class Program
 {
     public static void Main(string[] args)
