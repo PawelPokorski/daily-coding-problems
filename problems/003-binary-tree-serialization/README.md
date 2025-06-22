@@ -28,5 +28,7 @@ assert deserialize(serialize(node)).left.left.val == 'left.left'
 ```
 
 **Constraints:**
-- Node values are strings
-- The serialized format should allow unambiguous reconstruction
+
+Node values are strings
+
+The serialized format should allow unambiguous reconstruction
