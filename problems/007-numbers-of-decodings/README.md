@@ -11,4 +11,4 @@ Output: `3`
 
 **Constraints:**
 
-- You can assume that the messages are decodable. For example, `"001"` is not allowed.
+You can assume that the messages are decodable. For example, `"001"` is not allowed.
